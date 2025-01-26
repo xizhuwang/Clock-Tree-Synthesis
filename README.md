@@ -1,7 +1,5 @@
-Before:
-![螢幕擷取畫面 2024-10-20 115945](https://github.com/user-attachments/assets/a6c8e285-c86e-46cc-889a-28c3e5ec786a)
-After:
-![螢幕擷取畫面 2024-10-27 161630](https://github.com/user-attachments/assets/967105ac-1451-4bee-80ef-c76c57c2c605)
+![image](https://github.com/user-attachments/assets/1d5c1ae3-5770-4d7a-bad9-7c2dc65f2118)
+![image](https://github.com/user-attachments/assets/06be79ea-754c-46bb-8347-9b6ba79151fd)
 
 1. Programming Language: C++  
 2. Compilation Environment: Linux GNU C++  
