@@ -5,7 +5,8 @@
    - Editor: `sudo apt-get install vim`  
    - Compilation: `g++ M11307409.cpp -o cts -Wall`  
    - Execution: `./cts input.cts output.cts`  
-   - Output: `cat output.cts`  
+   - Output: `cat output.cts`
+3. Visualization: view.py `input file:case03.cts/ output file:output03.cts` 
 
 ### Program Workflow:
 1. Read the file.  
