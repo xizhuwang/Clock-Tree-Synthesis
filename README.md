@@ -1,3 +1,6 @@
+![螢幕擷取畫面 ![螢幕擷取畫面 2024-10-27 161630](https://github.com/user-attachments/assets/1bd51f29-3c11-4541-bfd4-067478cae60b)
+2024-10-20 115945](https://github.com/user-attachments/assets/83019272-e34a-496d-987b-8ca2f0bbde21)
+
 1. Programming Language: C++  
 2. Compilation Environment: Linux GNU C++  
    - Compiler Installation: `sudo apt-get install g++`  
