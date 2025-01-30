@@ -6,7 +6,7 @@
    - Compiler Installation: `sudo apt-get install g++`  
    - Environment Setup: `sudo apt-get install build-essential`  
    - Editor: `sudo apt-get install vim`  
-   - Compilation: `g++ M11307409.cpp -o cts -Wall`  
+   - Compilation: `g++ CTS.cpp -o cts -Wall`  
    - Execution: `./cts input.cts output.cts`  
    - Output: `cat output.cts`
 3. Visualization: view.py `input file:case03.cts/ output file:output03.cts` 
